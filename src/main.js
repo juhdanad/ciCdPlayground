@@ -4,25 +4,25 @@ new App({
 	target: document.body,
 	props: {
 		// What's your name?
-		name: 'James Butler',
+		name: 'Daniel Juhasz',
 		// In the following fiels you can either give a single string, 
 		// or an array of bullet points
 		
 		// What do you associate with the term 'CI/CD'?
 		associations: [
-			'Ehm, what?'
+			'Github',
+			'pipeline'
 		],
 		// Which CI/CD tools do you use in your project?
-		tools: 'Jenkins, maybe?',
+		tools: 'Tekton',
 		// What do you want to learn in this workshop? 
 		expectations: [
-			'what you are talking about'
+			'how tekton works and alternatives'
 		],
 		// What do you like to do when you're not coding?
 		hobbies: [
-			'play chess', 
-			'do skydiving', 
-			'do my taxes'
+			'play games', 
+			'board game sessions'
 		]
 	}
 });
