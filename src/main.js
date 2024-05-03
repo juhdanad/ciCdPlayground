@@ -24,5 +24,6 @@ new App({
 			'play games', 
 			'board game sessions'
 		]
+		// test commit
 	}
 });
